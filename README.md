@@ -1,6 +1,6 @@
-# CSCI 4141 – Assignment 2: Image Retrieval with Vector Database
+# Image Retrieval with Vector Database
 
-This repository contains my solution for Assignment 2 of CSCI 4141 (Information Retrieval), completed in May 2025. The goal of this project is to build an image retrieval system capable of finding visually similar images from a database using feature extraction and vector search techniques.
+ The goal of this project is to build an image retrieval system capable of finding visually similar images from a database using feature extraction and vector search techniques.
 
 ## 📚 Project Overview
 
@@ -41,6 +41,4 @@ The assignment explores fundamental concepts and techniques for image retrieval,
   - Precision-Recall curves
 - Examples of successful and failed retrieval cases
 
-## 📄 License
 
-This project was completed as coursework for CSCI 4141. **Please do not copy this solution for academic submission.**
